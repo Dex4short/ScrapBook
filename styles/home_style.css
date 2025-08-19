@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('../images/tile.png');
+  background-repeat: repeat;
+  background-color: #e9ebee;
+}
